@@ -686,7 +686,7 @@ button:focus {
 .partnership .slider .slide-track {
   display: flex;
   width: calc(140px * 24);
-  animation: scroll 3s linear alternate infinite;
+  animation: scroll 30s linear alternate infinite;
   gap: 10px;
 }
 
